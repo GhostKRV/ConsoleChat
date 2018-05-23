@@ -1,0 +1,6 @@
+server\SendFile.class
+server\InetInfo.class
+server\SendData.class
+server\GetFile.class
+server\GetData.class
+server\Server.class
