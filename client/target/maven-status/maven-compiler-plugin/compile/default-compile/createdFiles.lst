@@ -1,0 +1,6 @@
+client\Client.class
+client\SendData.class
+client\InetInfo.class
+client\SendFile.class
+client\GetData.class
+client\GetFile.class
